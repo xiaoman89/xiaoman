@@ -3,7 +3,7 @@
 title: 鲁潇蔓
 
 # Name pronunciation (optional)
-name_pronunciation: Xiaoman Lu
+name_pronunciation: Lu Xiao Man
 
 # Full name (for SEO)
 first_name: Xiaoman
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Mathematics and Applied Mathematics
+    institution: Northeastern UNiversity
+    date_start: 2020-09-01
+    date_end: 2024-06-30
     summary: |
       GPA: 3.4/4.0
       
@@ -182,5 +182,4 @@ awards:
 ---
 
 ## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaoman Lu is a first-year PhD student in the department of Computer Science at the University of Warwick, specializing in artificial intelligence with a focus on DeepFakes detection and digital security.
