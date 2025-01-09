@@ -11,7 +11,7 @@ last_name: Lu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😊
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,8 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: DCS University of Warwick
-    url: https://warwick.ac.uk/fac/sci/dcs/
+  - name: Ubiquitous & Visual Computing (UV) Lab
+    url: https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/uvlab/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,23 +55,23 @@ education:
   - area: PhD Computer Science
     institution: University of Warwick
     date_start: 2024-09-30
-    date_end: 2028-12-31
+    date_end: Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Developing Robust and Generalized DeepFakes Detection Algorithms_. Supervised by [Prof Guan Yu](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BSc Mathematics and Applied Mathematics
+  - area: BSc Mathematics
     institution: Northeastern UNiversity
     date_start: 2020-09-01
     date_end: 2024-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 90.44/100.00
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mathematical Modeling
+      - Numerical analysis
+      - Machine Learning
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -117,7 +117,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -131,12 +131,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
