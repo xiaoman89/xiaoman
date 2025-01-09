@@ -55,7 +55,7 @@ education:
   - area: PhD Computer Science
     institution: University of Warwick
     date_start: 2024-09-30
-    date_end: Present
+    date_end: 2028-12-31
     summary: |
       Thesis on _Developing Robust and Generalized DeepFakes Detection Algorithms_. Supervised by [Prof Guan Yu](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/).
     button:
