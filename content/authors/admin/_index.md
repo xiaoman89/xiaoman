@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD candidate in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -169,4 +169,4 @@ awards:
 ---
 
 ## About Me
-Xiaoman Lu is a first-year PhD student in the department of Computer Science at the University of Warwick, specializing in artificial intelligence with a focus on DeepFakes detection and digital security.
+I’m a PhD candidate in Computer Science at the University of Warwick, specializing in artificial intelligence with a focus on DeepFakes detection.
