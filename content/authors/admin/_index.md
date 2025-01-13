@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD candidate in Computer Science
+role: PhD student in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -55,7 +55,7 @@ education:
   - area: PhD Computer Science
     institution: University of Warwick
     date_start: 2024-09-30
-    date_end: 2028-12-31
+    date_end: ''
     summary: |
       Thesis on _Developing Robust and Generalized DeepFakes Detection Algorithms_. Supervised by [Prof Guan Yu](https://warwick.ac.uk/fac/sci/dcs/people/yu_guan/).
     button:
@@ -169,4 +169,4 @@ awards:
 ---
 
 ## About Me
-I’m a PhD candidate in Computer Science at the University of Warwick, specializing in artificial intelligence with a focus on DeepFakes detection.
+I’m a PhD student in Computer Science at the University of Warwick, specializing in artificial intelligence with a focus on DeepFakes detection.
